@@ -1,0 +1,1 @@
+Our project is designed to introduce people to Dante's Purgatorio through the use of a text based game. The game is comprised of two installments. The first contains cantos I-XII and the second contain cantos XIII-XXI. The thrid installment is waiting for someone to code it!
